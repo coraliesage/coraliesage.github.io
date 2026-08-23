@@ -3,6 +3,7 @@ minimal_mistakes_skin: "default"  # try "dirt", "neon", "plum" etc. for other lo
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
 
 title: "Coralie Sage"
 name: "Coralie Sage"
