@@ -1,0 +1,29 @@
+theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"  # try "dirt", "neon", "plum" etc. for other looks
+
+plugins:
+  - jekyll-remote-theme
+
+title: "Coralie Sage"
+name: "Coralie Sage"
+email: "cosage@ethz.ch"
+description: "MSc student in Computer Science at ETH Zürich"
+
+author:
+  name: "Coralie Sage"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "MSc student in Machine Intelligence at ETH Zürich"
+  location: "City, Country"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "cosage@ethz.ch"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/coraliesage/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/cosage-ethz"
+
+markdown: kramdown
